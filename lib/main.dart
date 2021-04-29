@@ -8,7 +8,7 @@ import './screens/category_meals_screen.dart';
 
 void main() => runApp(MyApp());
 
-//adding comments o test git
+//adding comments o test
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
